@@ -303,6 +303,10 @@ table {
 	-moz-box-shadow: 0px 3px 0px 0px #FFE801;
 	box-shadow: 0px 3px 0px 0px #FFE801;
 }
+.col-md-4 {
+    flex: 0 0 auto;
+    width: 20%; /* Change this to the width you want */
+}
 .box-hover {
 	transition:all 500ms ease-in-out;
 	-webkit-transition:all 500ms ease-in-out;
@@ -956,8 +960,6 @@ ul.social-buttons li:last-child {
 	background: #FFE800;
 }
 .contact-details {
-	white-space: nowrap;
-	width: fit-content;
 	margin:70px 0;
 }
 .contact-details h2 {
