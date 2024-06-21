@@ -961,6 +961,10 @@ ul.social-buttons li:last-child {
 .contact-details h2 {
 	font-size:20px;
 }
+.col-in-contact {
+	padding:0 20px;
+	height: 228px;
+}
 .contact-details h2 span {
 	display:block;
 	color:#545454;
