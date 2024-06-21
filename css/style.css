@@ -296,6 +296,7 @@ table {
 	-webkit-box-shadow: 0px 3px 0px 0px #E04343;
 	-moz-box-shadow: 0px 3px 0px 0px #E04343;
 	box-shadow: 0px 3px 0px 0px #E04343;
+	height: 221px;
 	padding:20px 0;
 }
 .dark-box:hover,.dark-box:focus {
