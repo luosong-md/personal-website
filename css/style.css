@@ -956,6 +956,8 @@ ul.social-buttons li:last-child {
 	background: #FFE800;
 }
 .contact-details {
+	white-space: nowrap;
+	width: fit-content;
 	margin:70px 0;
 }
 .contact-details h2 {
